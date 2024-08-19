@@ -2,7 +2,7 @@
 Welcome to Secret Scribbles – a platform to express your thoughts and ideas in a secure and organized manner.
 
 ## 🌐 Live Demo
-Check out the live version of the project here. https://secretscribbles.netlify.app/
+Check out the live version of the project here. https://secretscribbles.vercel.app
 
 ## 🚀 Features
 User Authentication: Secure login and registration system.
