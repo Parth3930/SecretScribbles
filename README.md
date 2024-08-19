@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Secret Scribbles
+Welcome to Secret Scribbles – a platform to express your thoughts and ideas in a secure and organized manner.
 
-## Getting Started
+##🌐 Live Demo
+Check out the live version of the project here.
 
-First, run the development server:
+##🚀 Features
+User Authentication: Secure login and registration system.
+Create & Manage Cards: Easily create, view, and manage your thoughts or notes.
+Responsive Design: Optimized for all devices, ensuring a smooth experience on both mobile and desktop.
+Real-Time Updates: Cards update dynamically without the need for page reloads.
 
-```bash
+##🛠️ Tech Stack
+Frontend: React, Next.js, Material-UI
+Backend: Supabase
+Hosting: Netlify
+
+##📦 Installation & Setup
+To run this project locally:
+
+Clone the repository:
+
+``bash
+Copy code
+git clone https://github.com/yourusername/secretscribbles.git
+cd secretscribbles``
+
+## Install dependencies:
+
+``bash
+Copy code
+npm install``
+
+## Set up environment variables:
+Create a .env.local file in the root directory and add your Supabase credentials:
+
+``bash
+Copy code
+NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+NEXT_PUBLIC_SUPABASE_KEY=your-supabase-key``
+
+## Run the development server:
+
+``bash
+Copy code
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Open http://localhost:3000 in your browser to view the project.
+``
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
