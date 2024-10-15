@@ -1,7 +1,16 @@
 {
-  "name": "practice",
+  "name": "secret-scribbles",
   "version": "0.1.0",
   "private": true,
+  "description": "A private scribble-sharing platform for secure note-taking.",
+  "keywords": [
+    "scribbles",
+    "secure",
+    "notes",
+    "private",
+    "nextjs",
+    "react"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
