@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## 📞 Contact
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to [sharmaparth3930@gmail.com](mailto:your-email@example.com).
